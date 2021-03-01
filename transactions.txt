@@ -1,0 +1,88 @@
+101 2020/08/09 -1000.00 Renting Car
+101 2020/08/08   -2.25  Bus Ticket
+201 2020/08/08  -27.50  Taco Bell
+201 2020/08/09  -20.50  Subway Sandwich
+503 2020/08/08  -50.00  Ready Player One
+301 2020/08/10  -120.45 Electricity Bill
+301 2020/08/10  -200.00 Gas Bill
+301 2020/08/11   -80.00 Water Bill
+301 2020/08/11  -200.00 Internet Bill
+601 2020/08/11 -2000.00 House Tax
+703 2020/08/12 -2500.00 Hotel Reservation
+101 2020/08/13  2000.00 Provide Resource
+301 2020/08/23   500.00 Provide Resource
+801 2020/09/13  1000.00	Saving
+802 2020/09/13  1000.00 Saving
+301 2020/10/16  -142.37 Electric Bill
+301 2020/10/16  -212.60 Internet Bill
+301 2020/10/16  -200.00 Gas Bill
+301 2020/10/16   -80.00 Water Bill
+301 2020/10/16  -500.00 Provide Resource
+302 2021/01/01  -260.00 Transportable HDD
+601 2021/01/02  -200.00 Hire Cleaner
+601 2021/01/03  -100.50 Sending Carpets to Cleaner
+702 2021/01/03  -127.50 Bulletx100
+301 2021/01/14  -142.37 Electric Bill
+301 2021/01/14  -212.60 Internet Bill
+301 2021/01/16  -200.00 Gas Bill
+301 2021/01/15   -80.00 Water Bill
+301 2021/01/15   500.00 Provide Resource
+303 2020/09/10 -1600.00 Credit Card Payment
+601 2020/09/06  -750.00 House Rent Payment
+301 2020/09/15  -142.37 Electric Bill
+301 2020/09/15  -212.60 Internet Bill
+301 2020/09/15  -200.00 Gas Bill
+301 2020/09/15   -80.00 Water Bill
+301 2020/09/15   500.00 Provide Resource
+801 2020/10/11  -100.00 Jean
+801 2020/10/12   -50.00 Shirt
+202 2021/01/17  -177.50 Bear
+302 2021/01/20   -599.90 Motherboard
+503 2021/02/01     34.00 Dune Book
+301 2021/02/14  -142.37 Electric Bill
+301 2021/02/14  -212.60 Internet Bill
+301 2021/02/16  -200.00 Gas Bill
+301 2021/02/13   -80.00 Water Bill
+301 2021/02/15   500.00 Provide Resource
+502 2021/03/02  -2500.00 School Payment
+602 2021/01/05    -30.00 Dog Food
+801 2021/02/21   -120.00 Boots
+202 2021/03/12    -40.00 Red Wine
+802 2021/04/19    -23.40 Hand Cream
+801 2021/10/15   -200.00 Mont
+201 2021/08/17   -200.00 Olive Oil
+802 2021/01/13    -20.00 Comb
+503 2021/04/12   -240.00 Fiction
+801 2021/01/05    -90.00 Sweatshirt
+602 2020/12/20   -180.00 Pet Medicine
+701 2021/01/03   -160.00 Drumstick
+501 2021/01/06    -40.00 Lab Coat
+703 2021/01/13   -300.00 Invesment on Amazon
+104 2021/04/21   -180.00 Gas
+202 2021/04/31     -7.50 Water
+202 2021/04/31   -180.00 Rose Wine
+201 2021/05/31    -20.00 Yogurt
+201 2021/05/31    -25.75 Turkey Breast
+201 2021/05/31     -5.00 Cucumber
+301 2021/05/14   142.37 Electric Bill
+301 2021/05/14   212.60 Internet Bill
+301 2021/05/16  -200.00 Gas Bill
+301 2021/05/13   -80.00 Water Bill
+301 2021/05/15   500.00 Provide Resource
+401 2021/06/01    -15.00 Alla Seltzer
+101 2021/06/21  -6300.00 Flight Ticket to Paris
+101 2021/06/21   6000.00 Saving
+703 2020/08/28  -2000.00 Fun
+901 2021/05/01   -180.00 AKUT Donation
+301 2021/03/14  -142.37 Electric Bill
+301 2021/03/14  -212.60 Internet Bill
+301 2021/03/16  -200.00 Gas Bill
+301 2021/03/13   -80.00 Water Bill
+301 2021/03/15   600.00 Provide Resource
+401 2021/04/02 -1000.00 Hospital Bill
+301 2021/04/14   142.37 Electric Bill
+301 2021/04/14   212.60 Internet Bill
+301 2021/04/16  -200.00 Gas Bill
+301 2021/04/13   -80.00 Water Bill
+301 2021/04/15   500.00 Provide Resource
+

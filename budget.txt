@@ -1,0 +1,22 @@
+502 4000.00 Education
+101 1000.22 Transportation
+201 3000.00 Food
+202 1000.00 Drinks
+301 1000.00 Utilities
+401 2000.00 Medical/Health Care
+501 1000.00 School Supplies
+503  200.00 Books
+601 3000.00 Housing
+701  500.00 Hobbies
+702 2000.00 Entertainment
+703 3000.00 Holiday
+801 -300.00 Clothing
+802 -200.00 Personal Care
+302 1000.00 Electronic Spending
+703  500.00 Tactical Spending
+602  500.00 Pet Needs
+603 1000.00 Garden Spending
+901  200.00 Donations
+103  300.00 Automotive Needs
+104  200.00 Gas
+303 2000.00 Banking Payment
